@@ -1,5 +1,5 @@
 # 【428-week 01】学习总结
-![总结](https://github.com/EncodedStar/algorithm006-class02/blob/master/Week_01/G20200343030428/%E7%AC%AC%E4%B8%80%E5%91%A8.png "总结")
+
 ## 数组
 Array | -
 -------- | ---
@@ -177,5 +177,7 @@ Deletion | O(1)
   - 插入操作：O(1)
   - 取出操作：O(logN) - 按照元素的优先级取出
   - 底层具体实现的数据结构较为多样和复杂：heap、bst(二叉搜索树etc)、treap
+
+![总结](https://github.com/EncodedStar/algorithm006-class02/blob/master/Week_01/G20200343030428/Week01_428.png)
 
 *XMind: ZEN - Trial Version*
